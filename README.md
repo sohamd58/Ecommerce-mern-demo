@@ -48,7 +48,7 @@ Ecommerce-mern-demo/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Ecommerce-mern-demo.git
+git clone https://github.com/sohamd58/Ecommerce-mern-demo.git
 cd Ecommerce-mern-demo
 ```
 

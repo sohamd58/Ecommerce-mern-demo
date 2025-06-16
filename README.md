@@ -111,14 +111,7 @@ Pull requests are welcome! If you find a bug or have a suggestion, feel free to 
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ⭐ **Star this repo** to support the project!
 📫 **Connect** via [LinkedIn](https://www.linkedin.com/in/soham-d1758) or GitHub!
 
-```
-```
+---

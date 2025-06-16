@@ -111,7 +111,6 @@ Pull requests are welcome! If you find a bug or have a suggestion, feel free to 
 
 ---
 
-:mortar_board: Built with help from [Codesistency](https://www.youtube.com/@codesistency)
 ⭐ **Star this repo** to support the project!
 📫 **Connect** via [LinkedIn](https://www.linkedin.com/in/soham-d1758) or GitHub!
 
